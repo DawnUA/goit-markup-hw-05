@@ -59,7 +59,9 @@
       <section class="section prime-section">
         <div class="container prime-container">
           <h1 class="prime-name">Effective Solutions for Your Business</h1>
-          <button class="button-name" type="button">Order Service</button>
+          <button class="button-name" type="button" data-modal-open>
+            Order Service
+          </button>
         </div>
       </section>
       <!-- Section2 -->
@@ -474,5 +476,11 @@
         </div>
       </div>
     </footer>
+
+    <div class="backdrop is-open" data-modal>
+      <div class="modal"></div>
+    </div>
+
+    <script src="./js/modal.js"></script>
   </body>
 </html>
