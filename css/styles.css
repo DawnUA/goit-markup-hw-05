@@ -566,7 +566,7 @@ button {
 }
 
 .modal-close-btn:hover,
-:focus .modal-close {
+:focus {
   background-color: #404bbf;
   border: none;
   fill: #ffffff;
@@ -624,6 +624,12 @@ button {
   border-color: #4d5ae5;
 }
 
+input:focus + .icon-person,
+input:focus + .icon-phone,
+input:focus + .icon-email {
+  fill: #4d5ae5;
+}
+
 .icon-person,
 .icon-phone,
 .icon-email {
@@ -635,9 +641,5 @@ button {
 }
 
 .name-input:focus .icon-person {
-  fill: #4d5ae5;
-}
-
-.phone-input-container:focus .icon-phone {
   fill: #4d5ae5;
 }
