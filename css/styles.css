@@ -621,7 +621,6 @@ button {
 .name-input:focus,
 .phone-input:focus,
 .email-input:focus {
-  border: 1px solid #4d5ae5;
   border-color: #4d5ae5;
 }
 
