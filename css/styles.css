@@ -582,16 +582,11 @@ button {
   margin-bottom: 16px;
 }
 
-.label-name-input,
-.label-phone-input,
-.label-email-input {
+.form-section {
   margin-bottom: 8px;
 }
 
-.label-name,
-.label-phone,
-.label-email,
-.label-comment {
+.label-content {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
@@ -600,9 +595,7 @@ button {
   margin-bottom: 4px;
 }
 
-.name-input-container,
-.phone-input-container,
-.email-input-container {
+.input-container {
   position: relative;
 }
 
