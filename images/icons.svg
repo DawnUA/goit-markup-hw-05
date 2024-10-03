@@ -86,5 +86,8 @@
         <symbol id="icon-ellipse" viewBox="0 0 32 32">
             <path d="M32 16c0 4.418-1.791 8.418-4.686 11.314s-6.895 4.686-11.314 4.686c-4.418 0-8.418-1.791-11.314-4.686s-4.686-6.895-4.686-11.314c0-4.418 1.791-8.418 4.686-11.314s6.895-4.686 11.314-4.686c4.418 0 8.418 1.791 11.314 4.686s4.686 6.895 4.686 11.314z"></path>
         </symbol>
+        <symbol id="icon-checkbox" viewBox="0 0 32 32">
+            <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2" d="M4 1h24c1.657 0 3 1.343 3 3v24c0 1.657-1.343 3-3 3h-24c-1.657 0-3-1.343-3-3v-24c0-1.657 1.343-3 3-3z"></path>
+        </symbol>
     </defs>
 </svg>
